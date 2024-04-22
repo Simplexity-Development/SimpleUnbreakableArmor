@@ -1,0 +1,7 @@
+name: SimpleUnbreakableArmor
+version: '${project.version}'
+main: simplexity.simpleunbreakablearmor.SimpleUnbreakableArmor
+api-version: '1.20'
+commands:
+  restore:
+    description: "Test restoring item"
